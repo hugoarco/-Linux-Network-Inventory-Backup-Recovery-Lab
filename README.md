@@ -1,6 +1,5 @@
 <h1 align = "center" >Administración de Red y Copias de Seguridad en Linux</h1> 
 
-Proyecto práctico realizado para la asignatura de Sistemas Operativos Monopuesto.
 
 ## Objetivos
 
